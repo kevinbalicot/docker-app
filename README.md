@@ -3,7 +3,7 @@
 An application to manage docker server
 
 ## INSTALLATION
-* Install docker api ([link](https://github.com/kevinbalicot/docker-api)) on you'r server
+* Install docker api ([link](https://github.com/kevinbalicot/docker-api)) on your server
 
 ```
 & npm run build
